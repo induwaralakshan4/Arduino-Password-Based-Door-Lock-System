@@ -1,7 +1,8 @@
+![lv_0_20261010163432.jpg](https://github.com/user-attachments/assets/b83bec31-7424-4da3-a0c7-f02ae2575d70)
 
 🔐 Arduino Password-Based Door Lock System
 
-https://github.com/user-attachments/assets/c213216d-d87d-400d-bcd8-fe812c0986b1
+Demo Video :- https://github.com/user-attachments/assets/c213216d-d87d-400d-bcd8-fe812c0986b1
 
 An Arduino-based security project that simulates a password-protected door locking system using a keypad, LCD display, servo motor, buzzer, and LED indicators.
 
